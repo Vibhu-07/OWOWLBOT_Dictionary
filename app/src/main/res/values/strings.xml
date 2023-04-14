@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">OWLBOT Dictionary</string>
+    <string name="home_btn">HOME</string>
+    <string name="type_here">Type your word here</string>
+    <string name="search_btn">SEARCH</string>
+    <string name="last">Last Searched:</string>
+    <string name="alert">Type the word and hit SEARCH to get the meaning</string>
+
 </resources>

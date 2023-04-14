@@ -12,14 +12,15 @@
 
     <TextView
         android:id="@+id/wordTextView"
-        android:layout_width="226dp"
-        android:layout_height="72dp"
+        android:layout_width="148dp"
+        android:layout_height="75dp"
         android:layout_marginTop="60dp"
         android:padding="16dp"
+        android:textAlignment="textStart"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.298"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -28,9 +29,9 @@
         android:layout_width="253dp"
         android:layout_height="243dp"
         android:layout_below="@id/wordTextView"
-        android:layout_marginTop="44dp"
+        android:layout_marginTop="32dp"
         android:padding="16dp"
-        android:textAlignment="viewStart"
+        android:textAlignment="textStart"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

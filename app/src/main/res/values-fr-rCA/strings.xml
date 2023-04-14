@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dictionnaire OWLBOT</string>
+    <string name="home_btn">MAISON</string>
+    <string name="type_here">Tapez votre mot ici</string>
+    <string name="search_btn">SERCH</string>
+    <string name="last">Et Serchd</string>
+    <string name="alert">Tapez le mot et appuyez sur RECHERCHER pour obtenir le sens</string>
+</resources>

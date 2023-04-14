@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
     private void showAlertDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("HELP");
-        builder.setMessage("Type the word and hit SEARCH to get the meaning");
+        builder.setMessage(R.string.alert);
         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
